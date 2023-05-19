@@ -1,6 +1,6 @@
 ### This Repo contains some useful little Python-Tools for everyday use such as:
 
-##--> PDFMerger 
+## --> PDFMerger 
 
 a Python script that allows you to effortlessly merge all PDF files within the current directory into a single, comprehensive PDF document.
 
