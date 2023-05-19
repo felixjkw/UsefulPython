@@ -1,10 +1,10 @@
 This Repo contains some useful little Python-Tools for everyday use such as:
 
-### --> PDFMerger 
+# --> PDFMerger 
 
 a Python script that allows you to effortlessly merge all PDF files within the current directory into a single, comprehensive PDF document.
 
-# How to Use PDFMerger
+### How to Use PDFMerger
 
 - Ensure that you have Python installed on your system.
 - Download the PDFMerger script from GitHub.
